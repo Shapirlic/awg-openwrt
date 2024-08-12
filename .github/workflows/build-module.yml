@@ -15,17 +15,17 @@ jobs:
           - tag: "23.05.4"
             pkgarch: mips_4kec
             target: realtek
-            subtarget: realtek
+            subtarget: rtl838x
             vermagic: "040d391394b36f9ba6b7b1889d15738a"
           - tag: "23.05.4"
             pkgarch: mips_4kec
             target: realtek
-            subtarget: realtek
+            subtarget: rtl838x
             vermagic: "040d391394b36f9ba6b7b1889d15738a"
           - tag: "23.05.4"
             pkgarch: mips_4kec
             target: realtek
-            subtarget: realtek
+            subtarget: rtl838x
             vermagic: "040d391394b36f9ba6b7b1889d15738a"
 
     steps:
